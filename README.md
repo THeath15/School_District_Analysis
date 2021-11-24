@@ -38,8 +38,11 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 
 
 #**#Average Math and Reading Scores**
+
+## Average Math Scores
 ![Average math scores](https://user-images.githubusercontent.com/92903447/143297371-c51439ad-fe4f-4729-8eb5-a7074820af63.png)
 
+## Average Reading Scores
 ![Average reading scores](https://user-images.githubusercontent.com/92903447/143297454-dae38022-037e-4ea3-a38b-830ecc2cf814.png)
 
 #**Scores by School Size and School Types**
@@ -48,7 +51,7 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 ## Scores by School Type
 ![Scores by School Type](https://user-images.githubusercontent.com/92903447/143297522-46557f6a-79eb-4dbf-b097-9d0e71d49dcc.png)
 
-#**##Budget spending summary per Student**
+#**Budget spending summary per Student**
 ![Spending summary per student](https://user-images.githubusercontent.com/92903447/143297590-7bc2ba0e-86f2-4cc7-a7e5-0929cefba36d.png)
 
 
