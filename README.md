@@ -22,16 +22,18 @@ PythonData Environment:
 # District Summary Data Frame
 The after adjustment of turning  9th graders at Thomas High School into turned null data and resulted the the  testing data of 461 which recalculated the percentages of passing math, passing reading, and the overall passing. The total count of students did not change as that was run on the count of the student ids, which was not turned into null data.
 The percentage of students passing math, reading, and both (overall) is reduced by 1%.
-##![District Summary DataFrame](https://user-images.githubusercontent.com/92903447/143296702-4aa97a14-14a3-4c41-8036-d58af293ef4e.png)
+
+![District Summary DataFrame](https://user-images.githubusercontent.com/92903447/143296702-4aa97a14-14a3-4c41-8036-d58af293ef4e.png)
 
 # School Summary Dataframe after adjustment
 ![School Summary Dataframe after Adjustments](https://user-images.githubusercontent.com/92903447/143296761-01345138-793d-4eef-9bfb-ad8a83c186ee.png)
 
 
 # High and Low Performing Schools
-
+## Top Performing Schools
 ![Top 5 Performing Schools](https://user-images.githubusercontent.com/92903447/143296978-4c1955cc-8189-4761-9379-d8372d95e51d.png)
 
+## Low Performing Schools
 ![Low Performing Schools](https://user-images.githubusercontent.com/92903447/143297133-f6b97119-ac2a-4603-b920-f1bb3e90eb4d.png)
 
 
@@ -41,8 +43,9 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 ![Average reading scores](https://user-images.githubusercontent.com/92903447/143297454-dae38022-037e-4ea3-a38b-830ecc2cf814.png)
 
 #**Scores by School Size and School Types**
+## Scores by School Size
 ![Scores by school size](https://user-images.githubusercontent.com/92903447/143297510-dc972e9c-3d5c-40d0-a3a6-92114cdfd437.png)
-
+## Scores by School Type
 ![Scores by School Type](https://user-images.githubusercontent.com/92903447/143297522-46557f6a-79eb-4dbf-b097-9d0e71d49dcc.png)
 
 #**##Budget spending summary per Student**
