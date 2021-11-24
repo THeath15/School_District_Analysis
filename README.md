@@ -6,6 +6,7 @@ After the intial module anaylysis has been submitted .The school board has notif
 ## Resources
 Pandas & Numpy libraries Jupyter Notebook (PythonData environment created using Python 3.10 and Anaconda)
 csv’s provided: schools_complete.csv, students_complete.csv
+
 PythonData Environment:
  - Anaconda version 1.7.2
  - Conda ver. 4.9.0
