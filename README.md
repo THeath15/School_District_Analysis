@@ -53,6 +53,7 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 ![Scores by School Type](https://user-images.githubusercontent.com/92903447/143297522-46557f6a-79eb-4dbf-b097-9d0e71d49dcc.png)
 
 #**Budget spending summary per Student**
+
 ![Spending summary per student](https://user-images.githubusercontent.com/92903447/143297590-7bc2ba0e-86f2-4cc7-a7e5-0929cefba36d.png)
 
 
