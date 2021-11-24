@@ -20,6 +20,8 @@ GitBash version 2.28.0.windows.1
 ### There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
 
 ### District Summary Data Frame
+The after adjustment of turning  9th graders at Thomas High School into turned null data and resulted the the  testing data of 461 which recalculated the percentages of passing math, passing reading, and the overall passing. The total count of students did not change as that was run on the count of the student ids, which was not turned into null data.
+The percentage of students passing math, reading, and both (overall) is reduced by 1%.
 ![District Summary DataFrame](https://user-images.githubusercontent.com/92903447/143296702-4aa97a14-14a3-4c41-8036-d58af293ef4e.png)
 
 ### School Summary Dataframe after adjustment
@@ -32,19 +34,21 @@ GitBash version 2.28.0.windows.1
 ![Low Performing Schools](https://user-images.githubusercontent.com/92903447/143297133-f6b97119-ac2a-4603-b920-f1bb3e90eb4d.png)
 
 
-**#Average Math and Reading Scores**
+##**#Average Math and Reading Scores**
 ![Average math scores](https://user-images.githubusercontent.com/92903447/143297371-c51439ad-fe4f-4729-8eb5-a7074820af63.png)
 
 ![Average reading scores](https://user-images.githubusercontent.com/92903447/143297454-dae38022-037e-4ea3-a38b-830ecc2cf814.png)
 
-#Scores by School Size and School Types
+#**#Scores by School Size and School Types**
 ![Scores by school size](https://user-images.githubusercontent.com/92903447/143297510-dc972e9c-3d5c-40d0-a3a6-92114cdfd437.png)
-
 ![Scores by School Type](https://user-images.githubusercontent.com/92903447/143297522-46557f6a-79eb-4dbf-b097-9d0e71d49dcc.png)
 
-##Budget spending summary per Student
+**##Budget spending summary per Student**
 ![Spending summary per student](https://user-images.githubusercontent.com/92903447/143297590-7bc2ba0e-86f2-4cc7-a7e5-0929cefba36d.png)
 
 
 ## School District Analysis Summary
+For the 9th grade at Thomas Hight School , data will now shos as "NAN"
+The overall passing rate for Thomas High School changed dramatically from  to 65%. to 91%
+
 
