@@ -25,7 +25,6 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 ##![District Summary DataFrame](https://user-images.githubusercontent.com/92903447/143296702-4aa97a14-14a3-4c41-8036-d58af293ef4e.png)
 
 # School Summary Dataframe after adjustment
-
 ![School Summary Dataframe after Adjustments](https://user-images.githubusercontent.com/92903447/143296761-01345138-793d-4eef-9bfb-ad8a83c186ee.png)
 
 
@@ -41,19 +40,18 @@ The percentage of students passing math, reading, and both (overall) is reduced 
 
 ![Average reading scores](https://user-images.githubusercontent.com/92903447/143297454-dae38022-037e-4ea3-a38b-830ecc2cf814.png)
 
-#**#Scores by School Size and School Types**
+#**Scores by School Size and School Types**
 ![Scores by school size](https://user-images.githubusercontent.com/92903447/143297510-dc972e9c-3d5c-40d0-a3a6-92114cdfd437.png)
 
 ![Scores by School Type](https://user-images.githubusercontent.com/92903447/143297522-46557f6a-79eb-4dbf-b097-9d0e71d49dcc.png)
 
 #**##Budget spending summary per Student**
-
 ![Spending summary per student](https://user-images.githubusercontent.com/92903447/143297590-7bc2ba0e-86f2-4cc7-a7e5-0929cefba36d.png)
 
 
 ## School District Analysis Summary
 
-For the 9th grade at Thomas Hight School , data will now shos as "NAN"
+For the 9th grade at Thomas Hight School, data will now shos as "NaN" value
 The overall passing rate for Thomas High School changed dramatically from  to 65%. to 91%
 
 
